@@ -5,7 +5,7 @@ export const NavWrapper = styled.div`
     justify-content: space-between;
     align-items: center;
     height: 9vh;
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
 `
 
